@@ -1,6 +1,9 @@
 # Python-for-Data-Science-and-Machine-Learning-Bootcamp
 
-Welcome to my GitHub repository for the Python for Data Science and Machine Learning Bootcamp! This repository contains the iPython notebooks from the online course that I completed on Udemy, which was taught by Data Scientist Jose Portilla (https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/)
+Welcome to my GitHub repository for the Python for Data Science and Machine Learning Bootcamp! This repository contains the iPython notebooks from the online course that I completed on Udemy in July 2022, which was taught by Data Scientist Jose Portilla
+
+- Link to the course : https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/
+- Certificate of completion : https://www.udemy.com/certificate/UC-d1473444-65e2-4e9c-ab06-96fb8c974f2e/ 
 
 The course covers a wide range of topics related to using Python for Data Science and Machine Learning, including:
 
