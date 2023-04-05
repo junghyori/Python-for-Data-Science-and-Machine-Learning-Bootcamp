@@ -23,6 +23,10 @@ The course covers a wide range of topics related to using Python for Data Scienc
 - Support Vector Machines
 - K-Means Clustering
 - Principal Component Analysis
+- Recommender System
+- Natural Language Processing
+- Big Data and Spark
+- Deep learning
 
 I created this repository to keep track of my progress through the course and to have a reference for the notebooks while working on related projects. If you have any questions or feedback, please feel free to reach out to me.
 
